@@ -5,4 +5,9 @@
   <Folder Name="/Task1/">
     <Project Path="Tyuiu.PolyakovaAB.Sprint0.Task1.V0/Tyuiu.PolyakovaAB.Sprint0.Task1.V0.csproj" />
   </Folder>
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.PolyakovaAB.Sprint0.Task2.V0.cons/Tyuiu.PolyakovaAB.Sprint0.Task2.V0.csproj" />
+    <Project Path="Tyuiu.PolyakovaAB.Sprint0.Task2.V0.Lib/Tyuiu.PolyakovaAB.Sprint0.Task2.V0.Lib.csproj" />
+    <Project Path="Tyuiu.PolyakovaAB.Sprint0.Task2.V0.Test/Tyuiu.PolyakovaAB.Sprint0.Task2.V0.Test.csproj" />
+  </Folder>
 </Solution>
