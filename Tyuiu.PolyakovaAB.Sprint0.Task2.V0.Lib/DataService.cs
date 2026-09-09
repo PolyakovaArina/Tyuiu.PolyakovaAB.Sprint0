@@ -2,9 +2,9 @@
 {
     public class DataService
     {
-        public static string GetHello(string name)
+        public static string GetMessage(string name)
         {
-            return $"Hello, {name}!";
+            return $"Hello, {name}";
         }
         
 
