@@ -6,13 +6,13 @@ namespace Tyuiu.PolyakovaAB.Sprint0.Task2.V0.Test
 
     {
         [TestMethod]
-        public void CheckGetMessageValid()
+        public void CheckYelloValid()
         {
             var name = "Arina";
-            var res = DataService.GetMessage("Arina");
+            var result = DataService.GetHello(name);
 
-            Assert.AreEqual("Hello, Arina", res);
+            Assert.AreEqual("Hello, Arina!", result);
+
         }
-        
     }
 }
