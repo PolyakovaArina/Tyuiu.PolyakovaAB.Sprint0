@@ -17,7 +17,7 @@ namespace Tyuiu.PolyakovaAB.Sprint0.Task4.V0.Test
         [TestMethod]
         public void CheckMultiplicationVoid()
         {
-            Assert.AreEqual(25, DataService.Multiplication(5, 5)):
+            Assert.AreEqual(25, DataService.Multiplication(5, 5));
         }
         [TestMethod]
         public void CheckDivisionVoid()
